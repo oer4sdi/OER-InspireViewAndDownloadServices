@@ -24,12 +24,12 @@ The tutorial is structured as follows:
 - Questions and tasks
 
 
-### Target Audience and Prerequisites
+## Target Audience and Prerequisites
 
 This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about spatial data, QGIS and Python. In this case you will need about 30 minutes to use this tutorial.
 
 
-### How to use the OER Module
+## How to use the OER Module
 
 The OER(In Progress) is implemented as an [H5P](https://h5p.org/) module that can be downloaded and embedded into any H5P runtime environment, such as:
 - Learning management systems based on Moodle or Ilias
