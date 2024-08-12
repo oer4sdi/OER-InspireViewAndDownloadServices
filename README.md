@@ -25,8 +25,7 @@ The tutorial is structured as follows:
 
 ### Target Audience and Prerequisites
 
-This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about geospatial data, QGIS. In this case you will need about 20-40 minutes to use this tutorial.
-
+This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about spatial data, QGIS and Python. In this case you will need about 30 minutes to use this tutorial.
 
 
 ### How to use the OER Module
