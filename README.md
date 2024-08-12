@@ -10,6 +10,7 @@ In this technical tutorial, we will explore how to work with INSPIRE view and do
 -	Understanding the characteristics of INSPIRE view and download services.
 -   Gaining practical experience in working with these resources
 
+## Content Structure
 
 The tutorial is structured as follows: 
 
