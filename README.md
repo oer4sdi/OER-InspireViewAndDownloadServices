@@ -46,8 +46,6 @@ You are free to use, alter and share the tutorial under the terms of the CC-BY-S
 
 The authors can be mentioned as follows: OER-INSPIRE-ViewAndDownload (2024), CC-BY-SA 4.0, Hamidreza Behbood, Albert Remke, www.uni-muenster.de
 
-You are free to use, alter and reproduce the tutorial (H5P content, textual documents, graphics) under the terms of the CC-BY-SA 4.0 license. 
-
 Any code provided with the tutorial can be used under the terms of the MIT license. Please see the full license terms:https://github.com/oer4sdi/OER-INSPIRE-ViewAndDownload/blob/df9dd64d03e665ecf136ed8b21f81f531ef86181/LICENSE.md
 
 ## Authors and Funding
