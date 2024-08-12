@@ -1,7 +1,9 @@
 # How to Use INSPIRE View and Download Services
-Introduction to the special characteristics of INSPIRE view and download services
 
 This repository contains the tutorial “ INSPIRE View and Download Services ” which is available for reuse as an Open Educational Resource (OER). 
+
+INSPIRE stands for “Infrastructure for Spatial Information in Europe”. The European INSPIRE legislation requires public sector institutions in the member states to provide access to spatial data via so-called view services and download services. INSPIRE also provides technical recommendations on how these services can be implemented on the basis of international standards such as classic OGC Web Map Services (WMS) and OGC Web Feature Services (WFS) or the newer OGC API type of services. 
+
 
 In this technical tutorial, we will explore how to work with INSPIRE view and download services. Learning objectives are:
 
