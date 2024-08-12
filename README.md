@@ -47,4 +47,5 @@ You are free to use, alter and reproduce the tutorial (H5P content, textual docu
 ## Authors and Funding
 
 This Tutorial has been developed in the context of the OER4SDi project at the Institute for Geoinformatics, University of Münster. Authors are Hamidreza Behbood and Albert Remke.
+
 The OER4SDI project has been recommended by the Digital University NRW and is funded by the Ministry of Culture and Science NRW.
