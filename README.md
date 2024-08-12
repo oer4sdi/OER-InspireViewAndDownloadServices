@@ -3,7 +3,8 @@ Introduction to the special characteristics of INSPIRE view and download service
 
 This repository contains the tutorial “ INSPIRE View and Download Services ” which is available for reuse as an Open Educational Resource (OER). 
 
-In this tutorial you will learn how to access geospatial data using INSPIRE web map and download services . 
+In this technical tutorial, we will explore how to work with INSPIRE view and download services. Learning objectives are:
+
 -	Understanding the characteristics of INSPIRE view and download services.
 -   Gaining practical experience in working with these resources
 
