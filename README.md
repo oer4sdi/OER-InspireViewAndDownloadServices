@@ -1,4 +1,4 @@
-# OER INSPIRE View And Download Services
+# How to Use INSPIRE View and Download Services
 Introduction to the special characteristics of INSPIRE view and download services
 
 This repository contains the tutorial “ INSPIRE View and Download Services ” which is available for reuse as an Open Educational Resource (OER). 
