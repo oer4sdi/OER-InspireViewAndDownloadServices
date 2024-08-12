@@ -7,9 +7,9 @@ This tutorial was developed as a supplementary learning material for lectures/ex
 It is an introductory learning module that should help to better understand what SDIs are and how SDIs present themselves in practice.
 The chapter "Background" ties in with contents of teaching courses, in which theories and concepts about SDI are taught in more detail. The exercise that follows allows to interact with SDIs and getting familiar with SDI components.
 
-The core of the practical part is the *data acquisition* section. The geoportals of various spatial data infrastructures are used to search for and find the data required for the use case. At this point, the importance of both the quality of metadata and the usability of geoportals becomes evident. In addition, it should become clear that the geoportal's metadata catalogs are interconnected via replication mechanisms. 
+The core of the practical part is the *Finding INSPIRE view and download services* section. The INSPIRE geoportals offer various spatial data services. The search is required to find the data required for the use case. At this point, the importance of both the quality of metadata and the usability of geoportals becomes evident. 
 
-The second part serves to complete the use case and to show that the retrieved data is indeed interoperable and of a quality suitable to satisfy the information needs of the use case "wind farm planning". This part is also a small exercise in handling GIS tools (QGIS in this case). The workflows are described in sufficient detail so that even users with little GIS knowledge can understand them and transfer der knowledge to other contexts.
+The second part serves to complete the use case and to show that the retrieved data is indeed interoperable and of a quality suitable to satisfy the information needs of the use case "wind farm planning". This part is also a small exercise in handling GIS tools (QGIS in this case). The workflows are described in sufficient detail so that even users with little GIS knowledge can understand them and transfer their knowledge to other contexts.
 
 ## 2 Recommendations for the use of the learning material
 
