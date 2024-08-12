@@ -28,9 +28,9 @@ We have designed the learning material to support active engagement with the lea
 
    a) Ask the students to follow the described workflow themselves, i.e., to search for and find the required data in the data portals and to process them themselves in the described GIS analysis. They can compare the result in all sub-steps with the results of the tutorial.
 
-   b) Ask the students to answer the questions in chapter 5. Discuss these and similar questions with the students.
+   b) Ask the students to answer the questions in the Discuss chapter. Discuss these and similar questions with the students.
 
-   c) Ask students to complete the task described in Chapter 5. You may also want to modify this task or have them perform similar tasks (e.g., refine the analysis by adding more criteria and data).
+   c) Ask students to complete the task described in  the Discuss chapter. You may also want to modify this task or have them perform similar tasks (e.g., refine the analysis by adding more criteria and data).
 Sample solutions to the questions and tasks can be found in the "sampleSolutions" subdirectory in this GitHub repository.
 
 ### 2.3 Re-use, modification and distribution of the learning material
