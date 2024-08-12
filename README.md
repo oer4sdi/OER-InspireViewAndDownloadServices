@@ -40,8 +40,10 @@ Simply download just the H5P file, upload it to one of the environments and use 
 
 Alternatively you can use the Document " OER_INSPIRE View And Downloads services.pdf" from the PDF folder which has the same content.
 
-### Open License
-
-This Tutorial has been developed in the context of the OER4SDi project at the Institute for Geoinformatics, University of Münster. Authors are Hamidreza Behbood and Albert Remke. The OER4SDI project has been recommended by the Digital University NRW and is funded by the Ministry of Culture and Science NRW.
+## Copyright and License Statement
 
 You are free to use, alter and reproduce the tutorial (H5P content, textual documents, graphics) under the terms of the CC-BY-SA 4.0 license. Any code provided with the tutorial can be used under the terms of the MIT license. Please see the full license terms:.
+
+## Authors and Funding
+
+This Tutorial has been developed in the context of the OER4SDi project at the Institute for Geoinformatics, University of Münster. Authors are Hamidreza Behbood and Albert Remke. The OER4SDI project has been recommended by the Digital University NRW and is funded by the Ministry of Culture and Science NRW.
