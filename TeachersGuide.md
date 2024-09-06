@@ -4,12 +4,11 @@
 
 This tutorial was developed as a supplementary learning material for lectures/exercises in the subject area of spatial data infrastructures and can be used for blended learning. There are no dependencies on specific courses or course content, so it can be integrated as a learning unit in a wide variety of contexts and can also be used for independent learning.
 
-It is an introductory learning module that should help to better understand what SDIs are and how SDIs present themselves in practice.
-The chapter "Background" ties in with contents of teaching courses, in which theories and concepts about SDI are taught in more detail. The exercise that follows allows to interact with SDIs and getting familiar with SDI components.
+It is an introductory learning module that should help to better understand what SDIs are and how SDIs present themselves in practice. The chapter "Background" ties in with contents of teaching courses, in which theories and concepts about SDI are taught in more detail. The exercise that follows allows to interact with SDIs and getting familiar with SDI components.
 
-The core of the practical part is the *Finding INSPIRE view and download services* section. The INSPIRE geoportals offer various spatial data services. The search is required to find the data required for the use case. At this point, the importance of both the quality of metadata and the usability of geoportals becomes evident. 
+In this tutorial we focus on the special requirements on Inspire view and download services compared to the more general standards of ISO and OGC. Data providers have some degrees of freedom regarding the form they chose for providing view and download services. The open question is: are INSPIRE view and download services implemented in a way which makes data FAIR - findable, accessible, interoperable and reusable? Answering these questions will help to understand both the rationale behind Inspire and the state of play, which is still a step behind  Inspire's ambitions. 
 
-The second part serves to complete the use case and to show that the retrieved data is indeed interoperable and of a quality suitable to satisfy the information needs of the use case "wind farm planning". This part is also a small exercise in handling GIS tools (QGIS in this case). The workflows are described in sufficient detail so that even users with little GIS knowledge can understand them and transfer their knowledge to other contexts.
+
 
 ## 2 Recommendations for the use of the learning material
 
@@ -28,13 +27,14 @@ We have designed the learning material to support active engagement with the lea
 
    a) Ask the students to follow the described workflow themselves, i.e., to search for and find the required data in the data portals and to process them themselves in the described GIS analysis. They can compare the result in all sub-steps with the results of the tutorial.
 
-   b) Ask the students to answer the questions in the Discuss chapter. Discuss these and similar questions with the students.
+   b) Ask the students to answer the questions in the CheckYourKnowledge chapter. Discuss these and similar questions with the students.
 
-   c) Ask students to complete the task described in  the Discuss chapter. You may also want to modify this task or have them perform similar tasks (e.g., refine the analysis by adding more criteria and data).
+   c) Ask students to complete the task described in  the CheckYourKnowledge chapter. You may also want to modify this task or have them perform similar tasks.
+
 Sample solutions to the questions and tasks can be found in the "sampleSolutions" subdirectory in this GitHub repository.
 
 ### 2.3 Re-use, modification and distribution of the learning material
 
-We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the OER's open [license terms](https://github.com/oer4sdi/OER-INSPIRE-ViewAndDownload/blob/b1d6257a016cbcda0fd05fa039ebcf13e94e9f23/LICENSE.md).  
+We are happy if the learning material is useful for you! You can reuse and distribute the material as-is or in modified form, as it complies with the OER's open [license terms](/LICENSE.md).  
 
 We also appreciate constructive feedback and contributions to the learning material: Please add notes on errors and suggestions for improvement as issues to the repository's GitHub issue list. Thanks a lot!

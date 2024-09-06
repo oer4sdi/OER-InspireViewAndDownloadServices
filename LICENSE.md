@@ -2,7 +2,9 @@ Copyright (c) 2024 [University of Münster](https://www.uni-muenster.de/en/)
 
 You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode), unless explicitly stated otherwise for specific parts of the content. 
 
-The authors can be mentioned as follows: OER-INSPIRE-ViewAndDownload (2024), CC-BY-SA 4.0, Hamidreza Behbood, Albert Remke, www.uni-muenster.de
+The authors can be mentioned as follows: OER-InspireViewAndDownloadServices (2024), Hamidreza Behbood, Albert Remke, [University of Münster](www.muenster.de), CC-BY-SA 4.0.
+
+All logos used are generally excluded.
 
 Any source code contained or delivered with this OER can be used under the terms of the MIT license:
 
