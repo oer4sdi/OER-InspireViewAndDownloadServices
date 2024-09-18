@@ -29,8 +29,6 @@ We have designed the learning material to support active engagement with the lea
 
    b) Ask the students to answer the questions in the CheckYourKnowledge chapter. Discuss these and similar questions with the students.
 
-   c) Ask students to complete the task described in  the CheckYourKnowledge chapter. You may also want to modify this task or have them perform similar tasks.
-
 Sample solutions to the questions and tasks can be found in the "sampleSolutions" subdirectory in this GitHub repository.
 
 ### 2.3 Re-use, modification and distribution of the learning material
