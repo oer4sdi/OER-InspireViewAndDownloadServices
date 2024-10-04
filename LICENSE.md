@@ -1,8 +1,4 @@
-Copyright (c) 2024 [University of Münster](https://www.uni-muenster.de/en/)
-
-You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode), unless explicitly stated otherwise for specific parts of the content. 
-
-The authors can be mentioned as follows: OER-InspireViewAndDownloadServices (2024), Hamidreza Behbood, Albert Remke, [University of Münster](www.muenster.de), CC-BY-SA 4.0.
+You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode), unless explicitly stated otherwise for specific parts of the content. The tutorial can be referenced as follows: “OER-INSPIREViewAndDownloadServices”, OER4SDI project / University Münster,[ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
 
 All logos used are generally excluded.
 

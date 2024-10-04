@@ -41,15 +41,11 @@ This Tutorial has been developed in the context of the OER4SDi project at the In
 
 The OER4SDI project has been recommended by the Digital University NRW and is funded by the Ministry of Culture and Science NRW.
 
-## Copyright and License Statement
+## License Statement
 
-You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode), unless explicitly stated otherwise for specific parts of the content. 
+You are free to use, alter and reproduce this open educational resource (OER) under the terms of the [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode), unless explicitly stated otherwise for specific parts of the content. The tutorial can be referenced as follows: “OER-INSPIREViewAndDownloadServices”, OER4SDI project / University Münster,[ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
 
-The authors can be mentioned as follows: OER-InspireViewAndDownloadServices (2024), Hamidreza Behbood, Albert Remke, [University of Münster](www.muenster.de), CC-BY-SA 4.0.
-
-All logos used are generally excluded.
-
-Any code provided with the tutorial can be used under the terms of the MIT license. Please see the full [license terms.](/LICENSE.md). 
+All logos used are generally excluded. Any code provided with the tutorial can be used under the terms of the MIT license. Please see the full [license terms.](/LICENSE.md). 
 
 
 
